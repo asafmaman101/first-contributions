@@ -79,6 +79,7 @@
 - [Jeremy Collins](https://github.com/jeremyscottcollins)
 - [Robert Wong](https://github.com/rwong042)
 - jigyasa
+- asafmaman101
 - [Charles Steinmetz](https://github.com/GIGA-Coding/)
 - [Kamil Wawrzyńczuk](https://github.com/KamilWawrzynczuk)
 - [Anshuman Srivastava](https://github.com/anshumanc43)
